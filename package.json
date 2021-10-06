@@ -1,0 +1,16 @@
+{
+  "name": "ff-nodejs-server-sample",
+  "version": "1.0.0",
+  "description": "NodeJS Server SDK sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enver.bisevac@harness.io",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ff-nodejs-server-sdk": "^1.0.1"
+  }
+}
