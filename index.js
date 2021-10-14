@@ -1,4 +1,4 @@
-const client = require('ff-nodejs-server-sdk').default;
+const client = require('@harnessio/ff-nodejs-server-sdk').default;
 const dotenv = require('dotenv');
 
 dotenv.config()
