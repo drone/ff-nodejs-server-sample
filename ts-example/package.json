@@ -1,0 +1,16 @@
+{
+  "name": "ff-nodejs-server-sample",
+  "version": "1.0.0",
+  "description": "Node TS Server SDK sample",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "enver.bisevac@harness.io",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@harnessio/ff-nodejs-server-sdk": "^1.2.1-rc1",
+    "dotenv": "^10.0.0",
+    "ts-node": "^10.6.0"
+  }
+}

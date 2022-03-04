@@ -4,7 +4,7 @@ To be able to use the sample app please update your API key and set the flags th
 
 ## Setup and running
 
-before using sample app you need to install all dependencies with npm or yarn
+before using any sample app you need to install all dependencies with npm or yarn in application directory
 ```
 npm i
 ```
